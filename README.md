@@ -5,7 +5,7 @@
 
 # anime-tap-models
 
-Model data for anime taps that can be created with a 3D printer
+Animation pegbar model data that can be created with a 3D printer.
 
 ## Model List
 
