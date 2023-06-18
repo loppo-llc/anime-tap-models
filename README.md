@@ -11,10 +11,10 @@ Animation pegbar model data that can be created with a 3D printer.
 
 All models require a 3D printer with a fairly large build volume as they have a long side of 250mm.
 
-- [animetap-3-normal.stl](animetap-2-normal.stl)
-- [animetap-3-slim.stl](animetap-2-normal.stl)
-- [animetap-2-normal.stl](animetap-2-normal.stl)
-- [animetap-2-slim.stl](animetap-2-slim.stl)
+- [pegbar-acme-normal.stl](pegbar-acme-normal.stl)
+- [pegbar-acme-slim.stl](pegbar-acme-slim.stl)
+- [pegbar-iso838-normal.stl](pegbar-iso838-normal.stl)
+- [pegbar-iso838-slim.stl](pegbar-iso838-slim.stl)
 
 ## LICENSE
 
@@ -33,10 +33,10 @@ For more details, please see the [LICENSE.md](LICENSE.md) file.
 
 いずれのモデルも、長辺250mmのため、比較的大きなビルドボリュームを持つ3Dプリンターが必要です。
 
-- [animetap-3-normal.stl](animetap-2-normal.stl)
-- [animetap-3-slim.stl](animetap-2-normal.stl)
-- [animetap-2-normal.stl](animetap-2-normal.stl)
-- [animetap-2-slim.stl](animetap-2-slim.stl)
+- [3つ穴アニメタップ 標準](pegbar-acme-normal.stl)
+- [3つ穴アニメタップ 薄型](pegbar-acme-slim.stl)
+- [2つ穴アニメタップ 標準](pegbar-iso838-normal.stl)
+- [2つ穴アニメタップ 薄型](pegbar-iso838-slim.stl)
 
 ## ライセンス
 
